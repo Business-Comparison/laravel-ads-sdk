@@ -13,7 +13,7 @@
     ],
 	"require": {
 		"php": ">=8",
-		"microsoft/bingads": "13.0.15.2",
+		"microsoft/bingads": "13.0.15.2"
 	},
 
 	"require-dev": {
